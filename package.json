@@ -18,6 +18,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-  "brain-games": "bin/brain-games.js"
+    "brain-games": "bin/brain-games.js"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.1",
+    "@stylistic/eslint-plugin": "^5.6.1",
+    "@stylistic/eslint-plugin-js": "^4.4.1",
+    "eslint": "^9.39.1",
+    "globals": "^16.5.0"
   }
 }
