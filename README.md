@@ -11,3 +11,6 @@ https://asciinema.org/a/ZPX1LftwNjtos5PFUhG6hW2rN
 
 ### Пример игры калькулятор:
 https://asciinema.org/a/8oGShPJ0aRD1zwXfpGUyfRdKN
+
+### Пример игры НОД:
+https://asciinema.org/a/Rs5ntmX2a6ALJ2DMajR90jUUs
