@@ -14,3 +14,6 @@ https://asciinema.org/a/8oGShPJ0aRD1zwXfpGUyfRdKN
 
 ### Пример игры НОД:
 https://asciinema.org/a/Rs5ntmX2a6ALJ2DMajR90jUUs
+
+### Пример игры Арифметическая прогрессия:
+https://asciinema.org/a/PIZmESopMLED5YHSUuHI2npB7
