@@ -18,7 +18,7 @@ export const generateRound = () => {
   const length = 10
 
   const progression = makeProgression(start, step, length)
-  const hiddenIndex = Math.floor(Math.random() * length)
+  const hiddenIndex = Math.floor(Math.random() * length) // NOSONAR
   const hiddenProgression = hideElement(progression, hiddenIndex)
   const answer = progression[hiddenIndex]
 
